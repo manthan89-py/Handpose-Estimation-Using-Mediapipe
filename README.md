@@ -1,4 +1,4 @@
-# Handpost-Estimation-Using-Mediapipe
+# Handpose-Estimation-Using-Mediapipe
 * In this mini project we are detecting hands from live camera and also landmarks of hands. 
 * For Hand detection I used Mediapipe library along with Opencv.
 
